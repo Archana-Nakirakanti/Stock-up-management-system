@@ -1,0 +1,1 @@
+Stock up management system helps users manage their stock portfolios. They can buy and sell shares of different companies and keep track of their wallet balances. The application uses the Custom Tkinter library for its graphical user interface and connects to a MySQL database for user registration and data storage.
